@@ -9,7 +9,7 @@ Have pip package manager installed
 These instructions will get you a copy of the project up and running on your local machine.
 
 ## Installation
-Clone the repository onto your local machine using git clone https://github.com/Calliernie/MPharmaTest-Python.git
+Clone the repository onto your local machine using git clone https://github.com/Juxdeen/mPharma-Take-Home-Test.git
 
 After cloning, do the following:
 
